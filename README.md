@@ -10,7 +10,21 @@ I was interested in exploring the AirBnB dataset for Seattle. I wanted to better
 4. Which ones are the priciest neighborhoods in Seattle?
 5. How does property types within neighborhoods impact price for the most expensive neighborhoods and most common property types?
 6. How can we categorize reviews based on sentiments?
-7.Can we map positive and negative sentiments from reviews to neighborhoods to understand which neighborhoonds rank higher on the positive sentiment scale and which ones rank higher on the negative sentiment scale?
-8.Can we explore some of the worst reviews for additional insights?
-9.Can we predict a price for a given listing?
-10.What factors of the listing correlate best for predicting the price?
+7. Can we map positive and negative sentiments from reviews to neighborhoods to understand which neighborhoonds rank higher on the positive sentiment scale and which ones rank higher on the negative sentiment scale?
+8. Can we explore some of the worst reviews for additional insights?
+9. Can we predict a price for a given listing?
+10. What factors of the listing correlate best for predicting the price?
+
+## Libraries and Installation
+
+This project requires **Python 3.x** and the following Python libraries installed:
+- [Numpy](https://numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Scikit-learn](http://scikit-learn.org/stable/_)
+- [matplotlib](http://matplotlib.org/)
+- [Collections](https://docs.python.org/2/library/collections.html)
+- [NLTK](https://www.nltk.org/)
+
+
+
