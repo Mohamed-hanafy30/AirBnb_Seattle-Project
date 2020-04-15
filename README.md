@@ -1,6 +1,6 @@
 # AirBnb_Seattle-Project
 
-an article on medium about this project in this [link](https://medium.com/@mohamedabdelrazek_14826/seattle-airbnb-things-you-should-know-before-booking-in-seattle-e28fcff4a02c?source=your_stories_page---------------------------)
+# an article on medium about this project in this [link](https://medium.com/@mohamedabdelrazek_14826/seattle-airbnb-things-you-should-know-before-booking-in-seattle-e28fcff4a02c?source=your_stories_page---------------------------)
 
 ## Project Motivation
 
